@@ -49,6 +49,3 @@ You can view and make a copy of the Google Sheet template [here](your-google-she
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
----
-
-Feel free to customize this README to better fit your project's specific needs.
